@@ -11,4 +11,4 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hamzaali360&size_weight=0.5&count_weight=0.5&layout=pie)
 [![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=hamzaali360)](https://github.com/anuraghazra/github-readme-stats)-->
 
-
+![Metrics](https://metrics.lecoq.io/hamzaali360?template=classic&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&config.timezone=America%2FChicago)
